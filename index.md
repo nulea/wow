@@ -3,7 +3,6 @@ PS: Je vous conseil cette étape en dernier. Car vous pouvez les obtenir via les
 => /way 61.1 90.1
 Gobie voyageur
 Raille camouflé
-Aileron salé de collection
 Baleine minuscule
 Éperlan invisible
 Croque-dupe
@@ -27,19 +26,9 @@ Suramar (Îles brisées):
 (Capture: https://ibb.co/bFb1Smn)
 Aileron de mana ancestral
 
-Sommet de Kun-Lai (Pandarie):
-=> /way 44.5 52.5
-Flet insaisissable[/li]
-
-Île du Tonnerre (Pandarie):
-Flet tempétueux
-
 Fjord Hurlant (Norfendre):
 Aileron des fjords barbelé
 
 Mont Hyjal (Kalimdor):
 => /way 60.9 25.5 (Allez bien en dessous des racines.)
 [li] Rôdeur des puits
-
-Tol Barad (Royaumes de l'est):
-Poisson-prisonnier (À proximité du raid Bastion de Baradin)
