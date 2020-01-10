@@ -1,7 +1,6 @@
 Nagrand (Outreterre):
 PS: Je vous conseil cette étape en dernier. Car vous pouvez les obtenir via les autres zones ci-dessous.
-=> /way 61.1 90.1 (Juste à faire des allers-retours, Attention de pas tomber.)
-(Capture: ...)
+=> /way 61.1 90.1
 Gobie voyageur
 Imitateur invisible
 Raille camouflé
@@ -10,7 +9,6 @@ Baleine minuscule
 Éperlan invisible
 Croque-dupe
 Poisson-chat anodin
-Héliophile doré (Le jour 8h00 - 21:30.)
 Poisson-lune insaisissable (La nuit 21h30 - 8h00.)
 
 Dalaran (Îles brisées):
