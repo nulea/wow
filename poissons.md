@@ -28,10 +28,6 @@ Suramar (Îles brisées):
 (Capture: https://ibb.co/bFb1Smn)
 Aileron de mana ancestral
 
-Nazmir (Zandalar):
-=> /way 55.4 57.9
-Morue de sang vicié
-
 La Forêt de jade (Pandarie):
 Poisson-histoire de jade
 
