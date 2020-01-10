@@ -11,4 +11,3 @@ PS: Je vous conseil cette étape en dernier. Car vous pouvez les obtenir via les
 *Éperlan invisible
 *Croque-dupe
 *Poisson-chat anodin
-*Poisson-lune insaisissable (La nuit 21h30 - 8h00.)
