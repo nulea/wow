@@ -2,7 +2,6 @@ Nagrand (Outreterre):
 PS: Je vous conseil cette étape en dernier. Car vous pouvez les obtenir via les autres zones ci-dessous.
 => /way 61.1 90.1
 Gobie voyageur
-Imitateur invisible
 Raille camouflé
 Aileron salé de collection
 Baleine minuscule
@@ -27,9 +26,6 @@ Suramar (Îles brisées):
 => /way 53.6 70.7 (Allez sur le toit, rester toujours sur la bordure.)
 (Capture: https://ibb.co/bFb1Smn)
 Aileron de mana ancestral
-
-La Forêt de jade (Pandarie):
-Poisson-histoire de jade
 
 Sommet de Kun-Lai (Pandarie):
 => /way 44.5 52.5
