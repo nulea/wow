@@ -1,13 +1,12 @@
-#Machins à faire
+# Machins à faire
 
-##Poissons secrets fantastiques
+## Poissons secrets fantastiques
 
 Nagrand (Outreterre):
 PS: Je vous conseil cette étape en dernier. Car vous pouvez les obtenir via les autres zones ci-dessous.
 => /way 61.1 90.1
-*Gobie voyageur
-*Raille camouflé
-*Baleine minuscule
-*Éperlan invisible
-*Croque-dupe
-*Poisson-chat anodin
+- Raille camouflé
+- Baleine minuscule
+- Éperlan invisible
+- Croque-dupe
+- Poisson-chat anodin
