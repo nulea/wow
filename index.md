@@ -25,10 +25,3 @@ Suramar (Îles brisées):
 => /way 53.6 70.7 (Allez sur le toit, rester toujours sur la bordure.)
 (Capture: https://ibb.co/bFb1Smn)
 Aileron de mana ancestral
-
-Fjord Hurlant (Norfendre):
-Aileron des fjords barbelé
-
-Mont Hyjal (Kalimdor):
-=> /way 60.9 25.5 (Allez bien en dessous des racines.)
-[li] Rôdeur des puits
